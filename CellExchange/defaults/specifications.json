@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "title": "US spec.",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 2,
+    "title": "Euro spec.",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 3,
+    "title": "Asia spec",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 4,
+    "title": "Other spec",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 5,
+    "title": "UK spec",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 6,
+    "title": "Arab spec",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 7,
+    "title": "Latin spec",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 8,
+    "title": "Indian Specs",
+    "created_at": "2017-07-01 11:06:03",
+    "created_by": 1,
+    "updated_at": "2017-07-01 11:06:03",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 9,
+    "title": "African Specs",
+    "created_at": "2017-07-01 11:07:29",
+    "created_by": 1,
+    "updated_at": "2017-07-01 11:07:29",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 10,
+    "title": "Canadian Spec",
+    "created_at": "2017-07-13 04:18:07",
+    "created_by": 1,
+    "updated_at": "2017-07-13 04:18:07",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 11,
+    "title": "Australian Spec",
+    "created_at": "2017-07-13 04:18:18",
+    "created_by": 1,
+    "updated_at": "2017-07-13 04:18:18",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Active"
+  },
+  {
+    "id": 2,
+    "title": "Non-Active"
+  },
+  {
+    "id": 3,
+    "title": "TRA"
+  },
+  {
+    "id": 4,
+    "title": "Sealed"
+  },
+  {
+    "id": 5,
+    "title": "HSO"
+  },
+  {
+    "id": 6,
+    "title": "14 Days"
+  },
+  {
+    "id": 7,
+    "title": "Graded Mix"
+  },
+  {
+    "id": 8,
+    "title": "Grade A+"
+  },
+  {
+    "id": 9,
+    "title": "Grade A"
+  },
+  {
+    "id": 10,
+    "title": "Grade B"
+  },
+  {
+    "id": 11,
+    "title": "Grade C"
+  },
+  {
+    "id": 12,
+    "title": "Used"
+  },
+  {
+    "id": 13,
+    "title": "New"
+  },
+  {
+    "id": 14,
+    "title": "Refurbished"
+  },
+  {
+    "id": 15,
+    "title": "CPO"
+  },
+  {
+    "id": 16,
+    "title": "7 Days"
+  },
+  {
+    "id": 17,
+    "title": "Near New"
+  },
+  {
+    "id": 18,
+    "title": "A / B"
+  },
+  {
+    "id": 19,
+    "title": "A / A-"
+  },
+  {
+    "id": 20,
+    "title": "Shaded"
+  },
+  {
+    "id": 21,
+    "title": "Dual Sim"
+  },
+  {
+    "id": 22,
+    "title": "Grade A/A+"
+  }
+]

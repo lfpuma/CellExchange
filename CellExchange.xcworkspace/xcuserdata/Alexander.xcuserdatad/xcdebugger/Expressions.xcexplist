@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in closure #1 in PostManager.create(interestedInId:categoryId:makeId:modelId:modelNumber:stockTypeId:color:storageCapacity:productConditionId:specificationId:qty:description:photo:):PostManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in closure #1 in PostManager.create(interestedInId:categoryId:makeId:modelId:modelNumber:stockTypeId:color:storageCapacity:productConditionId:specificationId:qty:description:photo:):PostManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(String)$0.result.success">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in NewPostViewController.createDidClick():NewPostViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

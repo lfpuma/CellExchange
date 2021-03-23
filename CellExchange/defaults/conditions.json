@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "New",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 2,
+    "title": "Used",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 3,
+    "title": "Sim Free",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 4,
+    "title": "Operator / Network",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 5,
+    "title": "Refurbished",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 6,
+    "title": "Accessories",
+    "created_at": "2017-04-21 00:00:00",
+    "created_by": 1,
+    "updated_at": "2017-04-21 00:00:00",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 7,
+    "title": "Master Carton",
+    "created_at": "2017-07-01 11:07:44",
+    "created_by": 1,
+    "updated_at": "2017-07-01 11:07:44",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  },
+  {
+    "id": 8,
+    "title": "Kits Only",
+    "created_at": "2017-07-01 11:07:54",
+    "created_by": 1,
+    "updated_at": "2017-07-01 11:07:54",
+    "updated_by": 1,
+    "trashed": 0,
+    "trashed_at": null,
+    "trashed_by": null
+  }
+]
